@@ -54,7 +54,7 @@ img{
     background: red;
     height: 1px;
     width: 100px;
-   
+   position: absolute;
     left: 0;
 }
 
